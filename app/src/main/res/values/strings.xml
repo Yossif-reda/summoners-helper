@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Summoners Helper</string>
+    <string name="service_desc">يلتقط صورة للشاشة ويضغط تلقائيًا على التاجر والمونيتور وجوائز الإنجازات في Summoners Greed.</string>
+</resources>
